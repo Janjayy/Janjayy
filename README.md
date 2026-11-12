@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Janjay Willie 👋🏽
 
-<!--
-**Janjayy/Janjayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Biomedical Engineer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a **Data Analyst and Biomedical Engineer** passionate about using data, technology, and engineering to solve problems and create meaningful impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring datasets, uncovering patterns, generating actionable insights, and applying technical knowledge to real-world challenges, particularly in healthcare and technology.
+
+### 🔍 Areas of Interest
+- Data Analytics & Visualization
+- Healthcare Analytics
+- Business Intelligence
+- Medical Technology
+- Healthcare Facility Planning
+- Data-driven Decision Making
+
+### 🛠️ Technologies & Tools
+
+| Category | Tools & Technologies |
+|---|---|
+| **Data Analytics** | Python, SQL, Power BI, Microsoft Excel |
+| **Design & Engineering** | AutoCAD, Revit, SketchUp |
+| **Project Management** | Microsoft Project |
+| **Version Control** | Git & GitHub |
+
+### 🌱 Always Learning
+Continuously exploring new technologies, developing practical skills, and building projects that turn data into meaningful insights and ideas into solutions.
+
+### 🤝 Let's Connect!
+Open to collaborations, knowledge sharing, and opportunities to contribute to impactful projects.
+
+**Turning data into insights and ideas into solutions.** 📊
